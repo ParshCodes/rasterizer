@@ -1,7 +1,7 @@
 #pragma once
 #include <vector>
 #include <cstdint>
-#include "math.h"
+#include "linalg.h"
 
 struct DrawVert {
     Vec3  screen;   // x, y in pixels; z is NDC depth in [-1, 1]

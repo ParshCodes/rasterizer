@@ -1,7 +1,7 @@
 #pragma once
 #include <vector>
 #include <string>
-#include "math.h"
+#include "linalg.h"
 
 struct Face {
     Vec3 pos[3];

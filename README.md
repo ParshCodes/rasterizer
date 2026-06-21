@@ -2,8 +2,6 @@
 
 A real-time 3D renderer written in C++17 that runs entirely on the CPU — no OpenGL, no Vulkan, no GPU APIs of any kind. Everything from triangle fill to lighting is computed by hand.
 
-![demo](demo.png)
-
 ---
 
 ## Features

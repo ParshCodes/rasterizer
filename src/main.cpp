@@ -2,7 +2,7 @@
 #include <iostream>
 #include <algorithm>
 #include <cmath>
-#include "math.h"
+#include "linalg.h"
 #include "mesh.h"
 #include "renderer.h"
 
